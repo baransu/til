@@ -1,6 +1,8 @@
 # Today I Learned
-Collection of articles, talks and other things I found interesting. 
+Collection of best articles, talks and other materials I found interesting.
 
+## 19.01.2019
+- 🎞 [Keira Hodgkison - What’s not to love about Reason? | ReasonConf 2018](https://youtu.be/4xr0WE49eik)
 
 ## 18.01.2019
 
