@@ -6,6 +6,10 @@ Collection of best articles, talks and other materials I found interesting.
 - 📖 article
 - 🎞 talk
 
+## 23.01.2019
+
+- 📖 [Paul Henschel - Why React needed yet another animation library. Introducing: react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce?source=userActivityShare-f1ca21eba144-1548293205&_branch_match_id=564788800423313311)
+
 ## 21.01.2019
 - 🎞 [Brian Mann – I see your point, but… (Part 1)](https://youtu.be/5XQOK0v_YRE)
 - 📖 [Bartosz Szczeciński - A React job interview — recruiter perspective](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
