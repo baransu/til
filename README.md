@@ -6,14 +6,20 @@ Collection of best articles, talks and other materials I found interesting.
 - 📖 article
 - 🎞 talk
 
+## February 2019
+
+### 01.02.2019
+
+- 📖 [Shannon Fisher - Building a remote-friendly company: an interview with Webflow CEO Vlad Magdalin](https://hackernoon.com/building-a-remote-friendly-company-an-interview-with-webflow-ceo-vlad-magdalin-3597d55df44c)
+
 ## January 2019
 
 ### 31.01.2019
-- 📖  [Christopher Forno - How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
-- 📖  [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3/)
+- 📖 [Christopher Forno - How Many .com Domain Names Are Unused?](https://singaporedatacompany.com/blog/how-many-domain-names-are-unused)
+- 📖 [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3/)
 
 ### 28.01.2019
-- 📖  [Avik Chaudhuri - What the Flow team has been up to](https://medium.com/flow-type/what-the-flow-team-has-been-up-to-54239c62004f)
+- 📖 [Avik Chaudhuri - What the Flow team has been up to](https://medium.com/flow-type/what-the-flow-team-has-been-up-to-54239c62004f)
 
 ### 23.01.2019
 - 📖 [Paul Henschel - Why React needed yet another animation library. Introducing: react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce?source=userActivityShare-f1ca21eba144-1548293205&_branch_match_id=564788800423313311)
