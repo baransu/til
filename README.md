@@ -8,6 +8,16 @@ Collection of best articles, talks and other materials I found interesting.
 
 ## February 2019
 
+### 15.02.2019
+
+- 📖 [Gabriel Rubens Abreu - How to use ReasonML parametric types on a ReasonReact component](https://medium.com/astrocoders/how-to-use-reasonml-parametric-types-on-a-reasonreact-bound-component-19a2ccb2ee35)
+
+### 10.02.2019
+- 📖 [Silvia Botros - On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html)
+  
+### 05.02.2019
+- 📖 [Marina Posniak/Tamara Hilmes - The Art of the Error Message](https://spotify.design/articles/2018-11-29/the-art-of-the-error-message/)
+
 ### 01.02.2019
 
 - 📖 [Shannon Fisher - Building a remote-friendly company: an interview with Webflow CEO Vlad Magdalin](https://hackernoon.com/building-a-remote-friendly-company-an-interview-with-webflow-ceo-vlad-magdalin-3597d55df44c)
