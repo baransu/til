@@ -8,6 +8,10 @@ Collection of best articles, talks and other materials I found interesting.
 
 ## February 2019
 
+### 20.02.2019
+
+- 📖 [Kent C. Dodds - Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building)
+
 ### 15.02.2019
 
 - 📖 [Gabriel Rubens Abreu - How to use ReasonML parametric types on a ReasonReact component](https://medium.com/astrocoders/how-to-use-reasonml-parametric-types-on-a-reasonreact-bound-component-19a2ccb2ee35)
