@@ -8,6 +8,10 @@ Collection of best articles, talks and other materials I found interesting.
 
 ## May 2019
 
+### 17.05.2019
+
+- 🎞 [Jamie Winsor - Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
+
 ### 16.05.2019
 - 📖 [Gabriel Gambetta - Fast-Paced Multiplayer series](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 
