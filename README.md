@@ -6,6 +6,11 @@ Collection of best articles, talks and other materials I found interesting.
 - 📖 article
 - 🎞 talk
 
+## May 2019
+
+### 16.05.2019
+- 📖 [Gabriel Gambetta - Fast-Paced Multiplayer series](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+
 ## February 2019
 
 ### 20.02.2019
