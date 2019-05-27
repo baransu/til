@@ -8,6 +8,10 @@ Collection of best articles, talks and other materials I found interesting.
 
 ## May 2019
 
+### 28.05.2019
+
+- 📖 - [Jim Fisher - Your syntax highlighter is wrong](https://jameshfisher.com/2014/05/11/your-syntax-highlighter-is-wrong/)
+
 ### 17.05.2019
 
 - 🎞 [Jamie Winsor - Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
