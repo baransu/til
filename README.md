@@ -6,6 +6,13 @@ Collection of best articles, talks and other materials I found interesting.
 - 📖 article
 - 🎞 talk
 
+## June 2019
+
+### 04.05.2019
+
+- 📖 - [Sashko Stubailo - A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
+- 📖 - [Sashko Stubailo - How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+
 ## May 2019
 
 ### 28.05.2019
