@@ -6,22 +6,26 @@ Collection of best articles, talks and other materials I found interesting.
 - 📖 article
 - 🎞 talk
 
+## July 2019
+- 📖 [Dan Abramov - Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- 📖 [Gergely Orosz - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
+
 ## June 2019
 
 ### 05.06.2019
 
-- 🎞 - [C J Silverio - The economics of open source](https://youtu.be/MO8hZlgK5zc)
+- 🎞 [C J Silverio - The economics of open source](https://youtu.be/MO8hZlgK5zc)
 
 ### 04.06.2019
 
-- 📖 - [Sashko Stubailo - A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
-- 📖 - [Sashko Stubailo - How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+- 📖 [Sashko Stubailo - A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
+- 📖 [Sashko Stubailo - How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
 
 ## May 2019
 
 ### 28.05.2019
 
-- 📖 - [Jim Fisher - Your syntax highlighter is wrong](https://jameshfisher.com/2014/05/11/your-syntax-highlighter-is-wrong/)
+- 📖 [Jim Fisher - Your syntax highlighter is wrong](https://jameshfisher.com/2014/05/11/your-syntax-highlighter-is-wrong/)
 
 ### 17.05.2019
 
