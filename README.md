@@ -12,6 +12,10 @@ Collection of best articles, talks and other materials I found interesting. Upda
 - 📖 [Polina Gurtovaya, Rita Klubochkina and Andy Barnov - Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques) 
 - 📖 [Manolis Karpathiotakis, Dino Wernli and Milos Stojanovic - Scribe: Transporting petabytes per hour via a distributed, buffered queueing system](https://engineering.fb.com/data-infrastructure/scribe/)
 
+### 04.10.2019
+
+- 📖 [Florian Hammerschmidt - Reason(React) Best Practices - Part 2](https://dev.to/fhammerschmidt/reason-react-best-practices-part-2-2opc)
+
 ## July 2019
 
 ### 21.07.2019 
