@@ -10,8 +10,11 @@ Collection of best articles, talks and other materials I found interesting. Upda
 
 ### 07.10.2019
 - 📖 [Polina Gurtovaya, Rita Klubochkina and Andy Barnov - Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques) 
+- 📖 [Manolis Karpathiotakis, Dino Wernli and Milos Stojanovic - Scribe: Transporting petabytes per hour via a distributed, buffered queueing system](https://engineering.fb.com/data-infrastructure/scribe/)
 
 ## July 2019
+
+### 21.07.2019 
 - 📖 [Dan Abramov - Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - 📖 [Gergely Orosz - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
 
