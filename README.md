@@ -1,10 +1,15 @@
 # Today I Learned
-Collection of best articles, talks and other materials I found interesting.
+Collection of best articles, talks and other materials I found interesting. Updated randomly.
 
 #### Legend
 - Date format follows `DD.MM.YYYY`
 - 📖 article
 - 🎞 talk
+
+## October 2019
+
+### 07.10.2019
+- 📖 [Polina Gurtovaya, Rita Klubochkina and Andy Barnov - Images done right: Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques) 
 
 ## July 2019
 - 📖 [Dan Abramov - Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
