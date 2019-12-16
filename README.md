@@ -24,6 +24,10 @@ Collection of best articles, talks and other materials I found interesting. Upda
 
 ## June 2019
 
+### 08.06.2019
+
+- 🎞 [Timothy Ford - Overwatch Gameplay Architecture and Netcode](https://youtu.be/W3aieHjyNvw)
+
 ### 05.06.2019
 
 - 🎞 [C J Silverio - The economics of open source](https://youtu.be/MO8hZlgK5zc)
