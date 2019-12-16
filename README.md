@@ -16,6 +16,11 @@ Collection of best articles, talks and other materials I found interesting. Upda
 
 - 📖 [Florian Hammerschmidt - Reason(React) Best Practices - Part 2](https://dev.to/fhammerschmidt/reason-react-best-practices-part-2-2opc)
 
+## August
+
+### 09.08.2019
+- 📖 [Matt Haughey - Tips from 16 years of working from home](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/)
+
 ## July 2019
 
 ### 21.07.2019 
